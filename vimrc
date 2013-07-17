@@ -179,3 +179,8 @@ omap af aBj$o?function<CR>0
 if filereadable(expand("$HOME/.vimrc.local"))
     source $HOME/.vimrc.local
 endif
+
+"
+" Launch Plugins
+"
+map <F1> :NERDTree<CR><ESC>
