@@ -11,7 +11,8 @@ set shell=bash
 
 " activate pathogen and filetype plugins and indenting
 filetype off
-call pathogen#runtime_append_all_bundles()
+" call pathogen#runtime_append_all_bundles()
+call pathogen#infect()
 call pathogen#helptags()
 filetype plugin indent on
 
