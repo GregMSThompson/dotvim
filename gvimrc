@@ -1,6 +1,6 @@
 "
 " gvimrc (mainly for MacVim)
-" Ben Godfrey <ben@ben2.com>
+" Greg Thompson <greg@greg9.com>
 "
 
 " Make sure the '<' and 'C' flags are not included in 'cpoptions', otherwise

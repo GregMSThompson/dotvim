@@ -1,6 +1,6 @@
 "
 " vimrc
-" Ben Godfrey <ben@ben2.com>
+" Greg Thompson <greg@greg9.com>
 "
 
 " this could be useful ;-)
@@ -166,6 +166,13 @@ let g:ref_use_vimproc = "true"
 
 " sudo make me a sandwich
 cmap w!! %!sudo tee > /dev/null %
+
+" enable all vim-go text highlighting
+let g:go_highlight_structs = 1
+let g:go_highlight_methods = 1
+let g:go_highlight_functions = 1
+let g:go_highlight_operators = 1
+let g:go_highlight_build_constraints = 1
 
 "
 " Text objects
