@@ -112,3 +112,9 @@
 [submodule "bundle/vim-ps1"]
 	path = bundle/vim-ps1
 	url = git@github.com:PProvost/vim-ps1.git
+[submodule "logstash.vim"]
+	path = bundle/logstash.vim
+	url = git@github.com:robbles/logstash.vim.git
+[submodule "bundle/logstash.vim"]
+	path = bundle/logstash.vim
+	url = git@github.com:robbles/logstash.vim.git
